@@ -76,7 +76,7 @@ BackAsswards.configure({
 })
 ```
 
-WIP: Keep your versions in a database? Good.
+WIP: Keep your versions in a database? Good. Specify a string and it will use that as the model name. Not quite finished
 ```
 BackAsswards.configure({
   data: "Version",
